@@ -2,7 +2,6 @@
 <div align="center">
 
 ![header](./banner_ilyass.png)
-
 # `> Ilyass Salihi` &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=MIP+Student+%40+UMP+Morocco;Math+%7C+CS+%7C+Physics;Builder.+Learner.+Explorer.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Salihi-Ilyass-RF&color=00ff41&style=flat-square&label=PROFILE+VIEWS"/>
@@ -49,9 +48,7 @@ bio        : "I do my best :)"
 
 <div align="center">
 
-![Salihi-Ilyass-RF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salihi-Ilyass-RF&show_icons=true&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salihi-Ilyass-RF&layout=compact&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&title_color=00ff41&text_color=aaffaa)
+![Salihi-Ilyass-RF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salihi-Ilyass-RF&show_icons=true&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false&rank_icon=github)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salihi-Ilyass-RF&layout=compact&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&title_color=00ff41&text_color=aaffaa)
 
 </div>
 
@@ -78,7 +75,7 @@ bio        : "I do my best :)"
 
 ```
 [PROCESS COMPLETE] — profile loaded for Salihi-Ilyass-RF
-● ONLINE  ▲ OPEN TO COLLAB  © 2026
+● ONLINE  ▲ OPEN TO COLLAB  © 2024
 ```
 
 </div>
