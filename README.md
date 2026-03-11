@@ -64,7 +64,7 @@ bio        : "I do my best :)"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ilyass--salihi-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=020c02)](https://www.linkedin.com/in/ilyass-salihi-307193352/)
 [![Email](https://img.shields.io/badge/Email-ilyasssalihi192@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=020c02)](mailto:ilyasssalihi192@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-PooTiiCaaTee%237543-000000?style=for-the-badge&logo=discord&logoColor=00ff41&labelColor=020c02)](https://discord.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@sali__ilyass__rf-000000?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=020c02)](https://www.instagram.com/sali_ilyass_rf)
+[![Instagram](https://img.shields.io/badge/Instagram-@sali__ilyass__rf-000000?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=020c02)]([https://www.instagram.com/sali_ilyass_rf](https://www.instagram.com/sali__ilyass__rf?igsh=MmJzd3hrOTF0bXc=))
 [![Facebook](https://img.shields.io/badge/Facebook-ilyass.salihi.2025-000000?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=020c02)](https://www.facebook.com/ilyass.salihi.2025)
 
 </div>
