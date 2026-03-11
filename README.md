@@ -36,6 +36,7 @@ bio        : "I do my best :)"
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00FF41)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=00FF41)
 
 ### 🖥️ Systems & Hardware
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF41)
