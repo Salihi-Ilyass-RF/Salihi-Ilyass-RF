@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=020c02&text=ILYASS%20SALIHI&fontColor=00ff41&fontSize=60&fontAlign=50&fontAlignY=55&height=100&desc=Salihi-Ilyass-RF&descColor=00aa2a&descAlign=50&descAlignY=82&stroke=00ff41&strokeWidth=1)
+![header](./banner_ilyass.png)
 
 # `> Ilyass Salihi` &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=MIP+Student+%40+UMP+Morocco;Math+%7C+CS+%7C+Physics;Builder.+Learner.+Explorer.)](https://git.io/typing-svg)
 
