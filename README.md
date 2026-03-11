@@ -49,7 +49,7 @@ bio        : "I do my best :)"
 
 <div align="center">
 
-![Salihi-Ilyass-RF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salihi-Ilyass-RF&show_icons=true&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false&rank_icon=github)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salihi-Ilyass-RF&layout=compact&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&title_color=00ff41&text_color=aaffaa)
+![Salihi-Ilyass-RF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salihi-Ilyass-RF&show_icons=true&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salihi-Ilyass-RF&layout=compact&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&title_color=00ff41&text_color=aaffaa)
 
 </div>
 
@@ -59,14 +59,12 @@ bio        : "I do my best :)"
 
 <div align="center">
 
-| Platform | Handle |
-|----------|--------|
-| 🐙 **GitHub** | [Salihi-Ilyass-RF](https://github.com/Salihi-Ilyass-RF) |
-| 💼 **LinkedIn** | [ilyass-salihi](https://www.linkedin.com/in/ilyass-salihi-307193352/) |
-| 📧 **Email** | [ilyasssalihi192@gmail.com](mailto:ilyasssalihi192@gmail.com) |
-| 💬 **Discord** | `PooTiiCaaTee#7543` |
-| 📸 **Instagram** | [@sali_ilyass_rf](https://www.instagram.com/sali_ilyass_rf) |
-| 📘 **Facebook** | [ilyass.salihi.2025](https://www.facebook.com/ilyass.salihi.2025) |
+[![GitHub](https://img.shields.io/badge/GitHub-Salihi--Ilyass--RF-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=020c02)](https://github.com/Salihi-Ilyass-RF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilyass--salihi-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=020c02)](https://www.linkedin.com/in/ilyass-salihi-307193352/)
+[![Email](https://img.shields.io/badge/Email-ilyasssalihi192@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=020c02)](mailto:ilyasssalihi192@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-PooTiiCaaTee%237543-000000?style=for-the-badge&logo=discord&logoColor=00ff41&labelColor=020c02)](https://discord.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@sali__ilyass__rf-000000?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=020c02)](https://www.instagram.com/sali_ilyass_rf)
+[![Facebook](https://img.shields.io/badge/Facebook-ilyass.salihi.2025-000000?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=020c02)](https://www.facebook.com/ilyass.salihi.2025)
 
 </div>
 
