@@ -2,6 +2,7 @@
 <div align="center">
 
 ![header](./banner_ilyass.png)
+
 # `> Ilyass Salihi` &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=MIP+Student+%40+UMP+Morocco;Math+%7C+CS+%7C+Physics;Builder.+Learner.+Explorer.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Salihi-Ilyass-RF&color=00ff41&style=flat-square&label=PROFILE+VIEWS"/>
@@ -27,7 +28,7 @@ bio        : "I do my best :)"
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF41)
 
@@ -75,7 +76,7 @@ bio        : "I do my best :)"
 
 ```
 [PROCESS COMPLETE] — profile loaded for Salihi-Ilyass-RF
-● ONLINE  ▲ OPEN TO COLLAB  © 2024
+● ONLINE  ▲ OPEN TO COLLAB  © 2026
 ```
 
 </div>
