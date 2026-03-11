@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-![header](./banner_ilyass.png)
+![header](https://capsule-render.vercel.app/api?type=rect&color=020c02&text=ILYASS%20SALIHI&fontColor=00ff41&fontSize=60&fontAlign=50&fontAlignY=55&height=100&desc=Salihi-Ilyass-RF&descColor=00aa2a&descAlign=50&descAlignY=82&stroke=00ff41&strokeWidth=1)
 
 # `> Ilyass Salihi` &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=MIP+Student+%40+UMP+Morocco;Math+%7C+CS+%7C+Physics;Builder.+Learner.+Explorer.)](https://git.io/typing-svg)
 
@@ -13,13 +13,13 @@
 
 ## `$ whoami`
 
-```yaml
-name     : Ilyass Salihi
-alias    : Salihi-Ilyass-RF
-program  : MIP — Mathematics, Computer Science, Physics
-university: Mohammed Premier University — Oujda, Morocco 🇲🇦
-status   : Student · Builder · Explorer
-bio      : "I do my best :)"
+```bash
+name       : Ilyass Salihi
+alias      : Salihi-Ilyass-RF
+program    : MIP — Mathematics, Computer Science, Physics
+university : Mohammed Premier University — Oujda, Morocco 🇲🇦
+status     : Student · Builder · Explorer
+bio        : "I do my best :)"
 ```
 
 ---
@@ -78,7 +78,7 @@ bio      : "I do my best :)"
 
 ```
 [PROCESS COMPLETE] — profile loaded for Salihi-Ilyass-RF
-● ONLINE  ▲ OPEN TO COLLAB  © 2024
+● ONLINE  ▲ OPEN TO COLLAB  © 2026
 ```
 
 </div>
