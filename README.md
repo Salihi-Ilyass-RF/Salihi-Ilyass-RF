@@ -1,12 +1,7 @@
-<!-- Header -->
-<div align="center">
-
-![header](./banner_ilyass.png)
-
 # `> Ilyass Salihi` &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=MIP+Student+%40+UMP+Morocco;Math+%7C+CS+%7C+Physics;Builder.+Learner.+Explorer.)](https://git.io/typing-svg)
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Salihi-Ilyass-RF&color=00ff41&style=flat-square&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
@@ -50,7 +45,11 @@ bio        : "I do my best :)"
 
 <div align="center">
 
-![Salihi-Ilyass-RF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salihi-Ilyass-RF&show_icons=true&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salihi-Ilyass-RF&layout=compact&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&title_color=00ff41&text_color=aaffaa)
+![Salihi-Ilyass-RF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salihi-Ilyass-RF&show_icons=true&include_all_commits=true&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salihi-Ilyass-RF&layout=compact&hide=html,css&langs_count=8&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&title_color=00ff41&text_color=aaffaa)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Salihi-Ilyass-RF&theme=matrix&background=020c02&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=aaffaa&sideNums=aaffaa&currStreakLabel=00ff41&sideLabels=00ff41&dates=aaffaa)
 
 </div>
 
@@ -64,7 +63,7 @@ bio        : "I do my best :)"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ilyass--salihi-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=020c02)](https://www.linkedin.com/in/ilyass-salihi-307193352/)
 [![Email](https://img.shields.io/badge/Email-ilyasssalihi192@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=020c02)](mailto:ilyasssalihi192@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-PooTiiCaaTee%237543-000000?style=for-the-badge&logo=discord&logoColor=00ff41&labelColor=020c02)](https://discord.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@sali__ilyass__rf-000000?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=020c02)]([https://www.instagram.com/sali_ilyass_rf](https://www.instagram.com/sali__ilyass__rf?igsh=MmJzd3hrOTF0bXc=))
+[![Instagram](https://img.shields.io/badge/Instagram-@sali__ilyass__rf-000000?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=020c02)](https://www.instagram.com/sali__ilyass__rf?igsh=MmJzd3hrOTF0bXc=)
 [![Facebook](https://img.shields.io/badge/Facebook-ilyass.salihi.2025-000000?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=020c02)](https://www.facebook.com/ilyass.salihi.2025)
 
 </div>
