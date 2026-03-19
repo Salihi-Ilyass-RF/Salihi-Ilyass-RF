@@ -50,7 +50,7 @@ bio        : "I do my best :)"
 
 <div align="center">
 
-![Salihi-Ilyass-RF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salihi-Ilyass-RF&show_icons=true&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salihi-Ilyass-RF&layout=compact&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&title_color=00ff41&text_color=aaffaa)
+![Salihi-Ilyass-RF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salihi-Ilyass-RF&show_icons=true&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salihi-Ilyass-RF&layout=compact&hide=html,css&theme=chartreuse-dark&bg_color=020c02&border_color=00ff41&title_color=00ff41&text_color=aaffaa)
 
 </div>
 
